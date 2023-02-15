@@ -5,7 +5,7 @@
   <artifactId>example</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>example Maven Webapp</name>
+  <name>Vivian_ATB_Maven_Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -15,7 +15,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>example</finalName>
+    <finalName>Vivian_ATB_Maven_Webapp</finalName>
     <plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
